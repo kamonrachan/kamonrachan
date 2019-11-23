@@ -2,13 +2,11 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 	fmt.Println(5 == 5)
 	fmt.Println(5 < 5)
 	fmt.Println(5 > 5)
 	fmt.Println(5 >= 5)
 	fmt.Println(5 <= 5)
 	fmt.Println(5 != 5)
-
 }
-
