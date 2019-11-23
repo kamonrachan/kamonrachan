@@ -8,5 +8,5 @@ func main() {
 	fmt.Println()
 	fmt.Println(`\n \t kamonrachan`[0])
 	fmt.Println(len(`\n \t kamonrachan`))
-	fmt.Println("Hi" + "kamonrachan")
+	fmt.Println("kamon" + "rachan")
 }
