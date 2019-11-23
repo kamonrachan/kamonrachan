@@ -10,8 +10,9 @@ func main() {
 	fmt.Println(NumberA * NumberB)
 	fmt.Println(NumberA / NumberB)
 
-	Name1 := "kamon"
-	Name2 := "rachan"
-	Name:=Name1+Name2
+	Name1 := "kamonrachan"
+	Name2 := "tokoksung"
+	Name := Name1 + Name2
 	fmt.Println(Name)
+	fmt.Println(Name[11:])
 }
