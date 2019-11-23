@@ -1,10 +1,12 @@
-package maain
+package main
 
 import "fmt"
 
 func main() {
-	var myAge int = 19
-	myAge := 19.5
-	fmt.Println("value variable =", myAge)
-	fmt.Println("value variable =", myAge2)
+	var something bool=true
+	text:="kamonrachan"
+	age1,age2:=19,20
+	fmt.Println("Value variable = ", something)
+	fmt.Println(text)
+	fmt.Println(age1,age2)
 }
