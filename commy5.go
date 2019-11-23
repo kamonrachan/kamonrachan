@@ -12,4 +12,6 @@ func main() {
 
 	Name1 := "kamon"
 	Name2 := "rachan"
+	Name:=Name1+Name2
+	fmt.Println(Name)
 }
